@@ -43,7 +43,7 @@
 						<workerType>MICRO</workerType>
 						<properties>
 							
-							<http.port>8081</http.port>
+							<http.port>8092</http.port>
 						</properties>
 					</cloudHubDeployment>
 					<sharedLibraries>
